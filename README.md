@@ -54,7 +54,7 @@ hastane_randevu_sistemi/
 
 ## 📮 Katkı ve İletişim
 
-Bu proje bir üniversite ödevi kapsamında geliştirilmiştir. Her türlü geri bildirime açıktır. Projede CSS yoktur, isteğinize göre güzelleştirme yapabilirsiniz.
+Bu proje bir üniversite ödevi kapsamında geliştirilmiştir. Her türlü geri bildirime açıktır. Projede CSS yoktur. Veritabanı içerisinde birkaç veri bulunmaktadır.
 
 ## 👩‍💻 Geliştirenler
 
