@@ -62,9 +62,3 @@ Bu proje bir üniversite ödevi kapsamında geliştirilmiştir. Her türlü geri
 - Nisa Erinmez - Bilgisayar Mühendisliği 3. Sınıf
 - Hatice Birdal - Bilgisayar Mühendisliği 3. Sınıf
 - Berra Nur Dalaklıoğlu – Bilgisayar Mühendisliği 3. Sınıf
-
-  
-
-
-
-
